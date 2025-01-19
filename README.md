@@ -1,0 +1,1 @@
+This example demonstrates the correct usage of the `removeIf` function in Kotlin for `MutableList`, `MutableSet`, and `MutableMap` collections. The `removeIf` function efficiently removes elements from the collection that satisfy a given predicate.  This example shows that the function works as expected for these common collection types and is a simple demonstration of its usage.
